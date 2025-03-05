@@ -1,17 +1,16 @@
-Hi I'm Shobhit rawat
-I'm interested in full stack development
-I'm currently learning HTML&CSS
-I'm looking to collaborate on making websites
-Email: shobhit1948@gmail.com
-- 👋 Hi, I’m @shobhit902
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Shobhit Rawat 👋
 
-<!---
-shobhit902/shobhit902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 👀 I'm passionate about **Frontend Development** and interested in **Full Stack Development**.  
+- 🌱 Currently learning **HTML, CSS, and React** to build dynamic and responsive web applications.  
+- 💻 Looking to collaborate on **exciting web projects** and open-source contributions.  
+
+## 💡 Skills
+- **Frontend:** HTML, CSS, Tailwind CSS, React  
+- **Currently Exploring:** JavaScript, Full Stack Development  
+
+## 📫 How to Reach Me
+- Email: shobhit1948@gmail.com  
+- GitHub: [@shobhit902](https://github.com/shobhit902)  
+
+⚡ **Fun Fact:** Always excited to learn and build something new!  
