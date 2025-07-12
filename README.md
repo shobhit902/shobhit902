@@ -6,7 +6,7 @@
 - 💻 Looking to collaborate on **exciting web projects** and open-source contributions.  
 
 ## 💡 Skills
-- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React-DOM  
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React, React-DOM  
 - **Currently Exploring:** JavaScript, Full Stack Development  
 
 ## 📫 How to Reach Me
