@@ -1,16 +1,29 @@
-# Hi, I'm Shobhit Rawat 👋
+Hi, I'm Shobhit Rawat 👋
+🚀 About Me
 
-## 🚀 About Me
-- 👀 I'm passionate about **Frontend Development** and interested in **Full Stack Development**.  
-- 🌱 Currently learning **HTML, CSS, and React** to build dynamic and responsive web applications.  
-- 💻 Looking to collaborate on **exciting web projects** and open-source contributions.  
+👨‍💻 Passionate Frontend Developer on the path to becoming a Full Stack Developer.
 
-## 💡 Skills
-- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React, React-DOM  
-- **Currently Exploring:** JavaScript, Full Stack Development  
+🌱 Currently leveling up in React, Next.js, and Backend Development (Node.js, Express, MongoDB).
 
-## 📫 How to Reach Me
-- Email: shobhit1948@gmail.com  
-- GitHub: [@shobhit902](https://github.com/shobhit902)  
+🤝 Open to collaborating on real-world projects, freelancing gigs, and open-source contributions.
 
-⚡ **Fun Fact:** Always excited to learn and build something new!  
+🎯 2025 Goals: Master Full Stack Development, solve 1000+ DSA problems, and launch impactful projects.
+
+💡 Skills
+
+Frontend: HTML, CSS, Tailwind CSS, JavaScript, React, React Router, DOM APIs
+
+Backend (Learning): Node.js, Express.js, MongoDB
+
+Other: Git, GitHub, REST APIs, Responsive Design
+
+📫 How to Reach Me
+
+📧 Email: shobhit1948@gmail.com
+
+💻 GitHub: @shobhit902
+
+💼 LinkedIn: Shobhit Rawat
+ (add your link if you have one)
+
+⚡ Fun Fact: I treat every project like a new adventure — code, break, learn, build, repeat.
