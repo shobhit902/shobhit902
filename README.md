@@ -23,7 +23,4 @@ Other: Git, GitHub, REST APIs, Responsive Design
 
 💻 GitHub: @shobhit902
 
-💼 LinkedIn: Shobhit Rawat
- (add your link if you have one)
-
 ⚡ Fun Fact: I treat every project like a new adventure — code, break, learn, build, repeat.
